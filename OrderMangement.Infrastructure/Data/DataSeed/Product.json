@@ -1,0 +1,122 @@
+ [
+      {
+
+        "Name": "Laptop",
+        "Price": 1200.00,
+        "Stock": 10
+      },
+      {
+
+        "Name": "Smartphone",
+        "Price": 800.00,
+        "Stock": 25
+      },
+      {
+ 
+        "Name": "Tablet",
+        "Price": 500.00,
+        "Stock": 15
+      },
+      {
+    
+        "Name": "Smartwatch",
+        "Price": 250.00,
+        "Stock": 30
+      },
+      {
+
+        "Name": "Wireless Earbuds",
+        "Price": 150.00,
+        "Stock": 50
+      },
+      {
+   
+        "Name": "Monitor",
+        "Price": 300.00,
+        "Stock": 20
+      },
+      {
+        
+        "Name": "Keyboard",
+        "Price": 50.00,
+        "Stock": 100
+      },
+      {
+        
+        "Name": "Mouse",
+        "Price": 30.00,
+        "Stock": 80
+      },
+      {
+        
+        "Name": "Headphones",
+        "Price": 100.00,
+        "Stock": 40
+      },
+      {
+        
+        "Name": "Printer",
+        "Price": 200.00,
+        "Stock": 15
+      },
+      {
+        
+        "Name": "External Hard Drive",
+        "Price": 120.00,
+        "Stock": 35
+      },
+      {
+        
+        "Name": "Camera",
+        "Price": 700.00,
+        "Stock": 10
+      },
+      {
+        
+        "Name": "Gaming Console",
+        "Price": 400.00,
+        "Stock": 18
+      },
+      {
+        
+        "Name": "Smart Speaker",
+        "Price": 80.00,
+        "Stock": 60
+      },
+      {
+        
+        "Name": "Fitness Tracker",
+        "Price": 120.00,
+        "Stock": 25
+      },
+      {
+        
+        "Name": "Desk Lamp",
+        "Price": 25.00,
+        "Stock": 120
+      },
+      {
+        
+        "Name": "Backpack",
+        "Price": 60.00,
+        "Stock": 50
+      },
+      {
+        
+        "Name": "Portable Charger",
+        "Price": 40.00,
+        "Stock": 75
+      },
+      {
+        
+        "Name": "Wireless Router",
+        "Price": 80.00,
+        "Stock": 30
+      },
+      {
+        
+        "Name": "USB Flash Drive",
+        "Price": 20.00,
+        "Stock": 200
+      }
+    ]
